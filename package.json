@@ -1,0 +1,21 @@
+{
+  "name": "coco-sham-reporting",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "firebase": "^9.22.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^13.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/node": "^18.15.0",
+    "typescript": "^5.0.4"
+  }
+}
